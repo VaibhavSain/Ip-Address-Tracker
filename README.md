@@ -106,6 +106,5 @@ REACT_APP_IP_API_KEY=your_api_key_here
 
 ### ⭐ Don’t forget to star this repo if you found it helpful!
 
-```
 
 ---
